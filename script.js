@@ -1,5 +1,6 @@
 //declarar
 const display = document.querySelector(".display");
+display.value = "0";
 
 const buttons = document.querySelectorAll("button");
 
